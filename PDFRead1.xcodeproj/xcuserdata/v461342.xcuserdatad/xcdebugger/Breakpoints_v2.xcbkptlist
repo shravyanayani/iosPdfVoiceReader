@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "14585910-CE6E-4BE7-AFC0-EDCAB718B03C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D68092E-0F84-445A-A985-A48B63EC444C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PDFRead1/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "PDFViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4D68092E-0F84-445A-A985-A48B63EC444C - 33707fdad316967b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PDFRead1.PDFViewModel.readCurrentPage() -&gt; ()"
+                  moduleName = "PDFRead1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mactest3/Documents/code/MobileApp/PDFRead1/PDFRead1/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "645">
+               </Location>
+               <Location
+                  uuid = "4D68092E-0F84-445A-A985-A48B63EC444C - 33707fdad316967b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PDFRead1.PDFViewModel.readCurrentPage() -&gt; ()"
+                  moduleName = "PDFRead1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mactest3/Documents/code/MobileApp/PDFRead1/PDFRead1/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "679">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
